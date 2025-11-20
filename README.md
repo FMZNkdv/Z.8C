@@ -8,6 +8,7 @@
 - [Usage](#usage)
 - [CHIP-8 Architecture](#chip-8-architecture)
 - [8-bit Processors](#8-bit-processors)
+- [Contributing](#contributing)
 
 ## Features
 
