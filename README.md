@@ -3,7 +3,7 @@ This is the 8chip emulator, written in Zig.
 
 ## Requirements
 
-- Zig 0.17.0 (dev.947+36069a2a7)
+- Zig 0.17.0 - 0.18.0
 - Linux (tested only on linux x86_64)
 - Brain..? 🧑🏿‍🦯
 
